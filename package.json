@@ -11,7 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/Microsoft/vscode-languageserver-node/issues"
 	},
-	"main": "./lib/main.js",
+	"main": "",
 	"typings": "./lib/main",
 	"dependencies": {
 		"vscode-jsonrpc": "^4.0.0",
