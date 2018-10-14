@@ -1,5 +1,5 @@
 {
-	"name": "vscode-languageserver-protocol",
+	"name": "@types/vscode-languageserver-protocol",
 	"description": "VSCode Language Server Protocol implementation",
 	"version": "3.13.0",
 	"author": "Microsoft Corporation",
@@ -11,8 +11,7 @@
 	"bugs": {
 		"url": "https://github.com/Microsoft/vscode-languageserver-node/issues"
 	},
-	"main": "",
-	"typings": "./lib/main",
+	"typings": "./lib/main.d.ts",
 	"dependencies": {
 		"vscode-jsonrpc": "^4.0.0",
 		"vscode-languageserver-types": "3.13.0"
